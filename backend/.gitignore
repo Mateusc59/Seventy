@@ -1,0 +1,32 @@
+# Build
+web/dist
+
+# Environment variables
+.env
+.env.local
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+**/*Zone.Identifier
+Thumbs.db
+.DS_Store
+
+# Big files
+*.sql
+*.gz
+*.zip
+*.7z
+
+# IDE
+.idea
+*.d.ts

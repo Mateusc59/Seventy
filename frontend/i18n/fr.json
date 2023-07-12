@@ -1,0 +1,10 @@
+{
+    "siteId": "2",
+    "homepage": {
+        "title": "Bonjour"
+    },
+    "404": {
+        "title": "Vous êtes perdu?",
+        "cta": "Revenir à l'accueil"
+    }
+}

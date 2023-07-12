@@ -1,0 +1,29 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  a01be21f-9962-4d3c-906b-7a496e8f182c: # CraftNuxt
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+  da738f29-e59c-401d-80b5-c23b1cc1ba57: # CraftNuxt - FR
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: __home__
+type: single
